@@ -1,0 +1,66 @@
+{
+  "_from": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git",
+  "_id": "multi-hashing@0.0.9",
+  "_inBundle": false,
+  "_location": "/multi-hashing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "multi-hashing@git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git",
+    "name": "multi-hashing",
+    "escapedName": "multi-hashing",
+    "rawSpec": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git",
+    "saveSpec": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git",
+    "fetchSpec": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/stratum-pool"
+  ],
+  "_resolved": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git#79be6a410444deaabcc657e6a1ee5a811c510ba8",
+  "_spec": "multi-hashing@git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git",
+  "_where": "/root/zny-nomp/node_modules/stratum-pool",
+  "author": {
+    "name": "Matthew Little",
+    "email": "zone117x@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "nan": "^2.8.0"
+  },
+  "deprecated": false,
+  "description": "node-multi-hashing ===============",
+  "gypfile": true,
+  "homepage": "https://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5#readme",
+  "keywords": [
+    "scrypt",
+    "scryptjane",
+    "script-n",
+    "yescrypt",
+    "x11",
+    "quark",
+    "keccak_hash",
+    "skein",
+    "bcrypt",
+    "keccak",
+    "blake",
+    "shavite",
+    "fugue",
+    "sha1"
+  ],
+  "license": "SEE LICENSE IN <filename>",
+  "main": "multihashing",
+  "name": "multi-hashing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "version": "0.0.9"
+}
