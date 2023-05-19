@@ -32,6 +32,7 @@ Algorithms
 * lbry
 * yespower
 * lyra2re2
+* memehash
 
 
 Usage
